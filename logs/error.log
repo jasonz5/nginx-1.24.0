@@ -1,0 +1,8 @@
+2024/03/14 22:17:47 [emerg] 13996#32028: CreateDirectory() "C:\Users\10230\Desktop\nginx-1.24.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/14 22:23:16 [emerg] 42432#37780: unknown log format "main" in C:\Users\10230\Desktop\nginx-1.24.0/conf/nginx.conf:25
+2024/03/14 22:26:39 [notice] 44432#44436: signal process started
+2024/03/14 22:26:56 [notice] 8004#44252: signal process started
+2024/03/14 22:29:54 [notice] 40424#44972: signal process started
+2024/03/14 22:29:54 [error] 40424#44972: OpenEvent("Global\ngx_reload_3244") failed (2: The system cannot find the file specified)
+2024/03/14 22:30:01 [notice] 42500#44716: signal process started
+2024/03/14 22:30:01 [error] 42500#44716: OpenEvent("Global\ngx_reload_3244") failed (2: The system cannot find the file specified)
